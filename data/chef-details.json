@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "1",
+    "name": "Massimo Bottura",
+    "recipe_id":"massimo",
+    "chef_img":"https://www.foodandwine.com/thmb/K7ZgLYb4NsvWKsiYNyLUO4b0J18=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gucci-osteria-Massimo-Bottura-VT-BLOG0220-e813072cbc0847648ccc3cecba04744f.jpg",
+    "numbers_of_recipe": 3 ,
+    "bio": "Massimo Bottura is one of the most influential and acclaimed chefs in the world, known for his innovative and creative approach to Italian cuisine. Born in Modena, Italy, in 1962, Bottura developed an early passion for food and cooking.",
+    "experience": "35 years",
+    "recipes": [
+        {
+          "name": "Tortellini in Brodo",
+          "img":"https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png?v=1604412901",
+          "description": "Meat-filled tortellini in a savory broth"
+        },
+        {
+          "name": "Risotto alla Parmigiana",
+          "img":"https://www.thedailymeal.com/img/gallery/instant-pot-risotto-alla-parmigiana-recipe/l-intro-1675971039.jpg",
+          "description": "Creamy risotto with Parmesan cheese"
+        },
+        {
+          "name": "Tagliatelle al Ragù",
+          "img":"https://blog.giallozafferano.it/loscrignodelbuongusto/wp-content/uploads/2019/03/3-3.jpg",
+          "description": "Egg pasta with a rich meat sauce"
+        }
+      ]
+  },
+  {
+    "_id": "2",
+    "name": "Lidia Bastianich",
+    "recipe_id":"Lidia",
+    "chef_img":"https://www.iitaly.org/sites/default/files/styles/article-slideshow-visual/public/slideshow_pro/lidia.jpeg",
+    "numbers_of_recipe": 3 ,
+    "experience": "50 years",
+    "bio": "Lidia Bastianich is an acclaimed Italian-American chef, restaurateur, and author, who has been instrumental in introducing authentic Italian cuisine to American audiences. Born in Pula, Croatia in 1947, Bastianich and her family fled to a refugee camp in Italy after World War II, before eventually immigrating to the United States in 1958.",
+    "recipes": [
+        {
+          "name": "Pesto alla Genovese",
+          "img":"https://img.apmcdn.org/0e4435c2e116941cafc74410f7419e47d1de860c/uncropped/84dad5-splendid-table-470822257.jpg",
+          "description": "Basil, pine nuts, garlic, and Parmesan cheese blended into a sauce"
+          
+        },
+        {
+          "name": "Focaccia",
+          "img":"https://www.177milkstreet.com/assets/site/Recipes/_large/Tomato-Olive-Focaccia.jpg",
+          "description": "Flatbread topped with olive oil and salt"
+          
+        },
+        {
+          "name": "Tiramisù",
+          "img":"https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-superJumbo.jpg",
+          "description": "Coffee-flavored dessert made with ladyfingers and mascarpone cheese"
+          
+        }
+      ]
+  },
+  {
+    "_id": "3",
+    "name": "Giada De Laurentiis",
+    "recipe_id":"Giada",
+    "chef_img":"https://parade.com/.image/t_share/MTkwNTc5MjI1Mjc4MjkzODg0/7-13-14-giada-delaurentiis-inside-vtr.jpg",
+    "numbers_of_recipe": 3 ,
+    "experience": "20 years",
+    "bio": "Giada De Laurentiis is a renowned Italian-American chef, author, and television personality. Born in Rome, Italy in 1970, De Laurentiis was raised in a family of culinary legends, with her grandfather Dino De Laurentiis being a famous film producer and her grandmother being a celebrated Italian actress.",
+    "recipes": [
+        {
+          "name": "Linguine with Clams",
+          "img":"https://whatsgabycooking.com/wp-content/uploads/WGC-Linguine-with-Clams-2-copy-2.jpg",
+          "description": "Linguine pasta with fresh clams in a white wine sauce"
+        },
+        {
+          "name": "Risotto ai Funghi",
+          "img":"https://ediblebronx.ediblecommunities.com/sites/default/files/styles/recipe_banner/public/images/recipe/shutterstock_173037734.jpg?itok=QkifC_7p&c=2d019bcc6d9028d5291a0f91fccbe187",
+          "description": "Creamy mushroom risotto made with Arborio rice"
+        },
+        {
+          "name": "Spaghetti alla Carbonara",
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
+          "description": "Pasta with pancetta, egg, and Pecorino Romano cheese"
+        }
+      ]
+  },
+  {
+    "_id": "4",
+    "name": "Mario Batali",
+    "recipe_id":"mario",
+    "chef_img":"https://d6vrtzdlbankn.cloudfront.net/wp-content/uploads/2015/06/julyaug15_10Interviews_0002_0105.jpg",
+    "numbers_of_recipe": 3 ,
+    "experience": "30 years",
+    "bio": "Mario Batali is an Italian-American chef, restaurateur, and television personality, who has become one of the most recognizable faces in the culinary world. Born in Seattle, Washington in 1960, Batali's passion for cooking was ignited during a trip to Italy when he was just 19 years old.",
+    "recipes": [
+        {
+          "name": "Lasagne al Forno",
+          "img":"https://www.giangiskitchen.com/wp-content/uploads/2012/04/lasagne-al-forno2-1-of-1-scaled.jpg",
+          "description": "Baked layers of pasta with meat sauce and cheese"
+        },
+        {
+          "name": "Osso Buco alla Milanese",
+          "img":"https://www.tavolartegusto.it/wp/wp-content/uploads/2023/02/ossibuchi-ossobuco-alla-milanese.jpg",
+          "description": "Veal shanks braised with vegetables and white wine"
+        },
+        {
+          "name": "Linguine with Clams",
+          "img":"https://whatsgabycooking.com/wp-content/uploads/WGC-Linguine-with-Clams-2-copy-2.jpg",
+          "description": "Linguine pasta with fresh clams in a white wine sauce"
+        }
+      ]
+  },
+  {
+    "_id": "5",
+    "name": "Carlo Cracco",
+    "recipe_id":"carlo",
+    "chef_img":"https://www.singaporeair.com/saar5/images/media-centre/press-release/ICPChef.jpg",
+    "numbers_of_recipe": 3 ,
+    "experience": "25 years",
+    "bio": "Carlo Cracco is an Italian chef, restaurateur, and television personality, who has established himself as one of the leading figures in the Italian culinary world. Born in Vicenza, Italy in 1965, Cracco began his culinary career working in several restaurants in Italy and France, including the prestigious Gualtiero Marchesi restaurant in Milan. ",
+    "recipes": [
+        {
+          "name": "Linguine with Clams",
+          "img":"https://whatsgabycooking.com/wp-content/uploads/WGC-Linguine-with-Clams-2-copy-2.jpg",
+          "description": "Linguine pasta with fresh clams in a white wine sauce"
+        },
+        {
+          "name": "Risotto alla Parmigiana",
+          "img":"https://www.thedailymeal.com/img/gallery/instant-pot-risotto-alla-parmigiana-recipe/l-intro-1675971039.jpg",
+          "description": "Veal-filled ravioli with a sage and butter sauce"
+        },
+        {
+          "name": "Focaccia",
+          "img":"https://www.177milkstreet.com/assets/site/Recipes/_large/Tomato-Olive-Focaccia.jpg",
+          "description": "Creamy dessert with fruit sauce"
+        }
+      ]
+  },
+  {
+     "_id": "6",
+    "name": "Niko romitto",
+    "recipe_id":"niko",
+    "chef_img":"https://aeworld.com/wp-content/uploads/2019/02/Niko-Romito-By-BRAMBILLA-SERRANI-PHOTOGRAPHERS-per-Identita-Golose-2015-2.jpg",
+    "numbers_of_recipe": 3 ,
+    "experience": "45 years",
+    "bio": "Niko Romito was born in 1974 in Rivisondoli, Italy, and grew up in a family of restaurateurs. He began his culinary career at the age of 19, working in his family's restaurant, and went on to study at the Instituto Alberghiero di Roccaraso. Romito's cooking style is characterized by his focus on simplicity, purity of flavors, and respect for ingredients.",
+    "recipes": [
+        {
+          "name": "Tortellini in Brodo",
+          "img":"https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png?v=1604412901",
+          "description": "Meat-filled pasta in a clear broth"
+        },
+        {
+          "name": "Pesto alla Genovese",
+          "img":"https://img.apmcdn.org/0e4435c2e116941cafc74410f7419e47d1de860c/uncropped/84dad5-splendid-table-470822257.jpg",
+          "description": "Basil, pine nuts, garlic, and Parmesan cheese blended into a sauce"
+        },
+        {
+          "name": "Tiramisu",
+          "img":"https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-superJumbo.jpg",
+          "description": "Coffee-flavored dessert with mascarpone cheese and ladyfingers"
+        }
+      ]
+  }
+]

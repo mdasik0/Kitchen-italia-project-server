@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Tortellini in Brodo",
+        "id":"1",
+        "recipe_id":"massimo",
+        "rating":"4.5",
+        "img":"https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png?v=1604412901",
+        "ingredients": [
+          "tortellini pasta",
+          "beef broth",
+          "Parmesan cheese",
+          "prosciutto",
+          "onion"
+        ],
+        "cooking_process":"To make the broth, add the chicken, carrots, celery, onion, and bay leaf to a large pot with 8 cups of water. Bring to a boil and then reduce the heat to low. Let the broth simmer for about 1 1/2 hours, or until the chicken is cooked through and the broth is flavorful. Remove the chicken and vegetables from the broth and strain it through a fine-mesh sieve. Discard the solids and set the broth aside.\n\nTo make the filling for the tortellini, combine the ground pork, ground beef, mortadella, prosciutto, Parmigiano-Reggiano cheese, nutmeg, eggs, salt, and pepper in a large bowl. "
+        
+      },
+      {
+        "name": "Risotto alla Parmigiana",
+        "id":"2",
+        "recipe_id":"massimo",
+        "rating":"4.0",
+        "img":"https://www.thedailymeal.com/img/gallery/instant-pot-risotto-alla-parmigiana-recipe/l-intro-1675971039.jpg",
+        "ingredients": [
+            "Arborio rice",
+            "Parmesan cheese",
+            "butter",
+            "white wine",
+            "chicken broth"
+        ],
+        "cooking_process":"Melt butter in a pan, add onion and cook until softened, add rice and cook for 1-2 minutes, add white wine and cook until evaporated, gradually add hot chicken broth and stir until rice is cooked, add Parmesan cheese and serve hot"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "id":"3",
+        "recipe_id":"massimo",
+        "rating":"5.0",
+        "img":"https://blog.giallozafferano.it/loscrignodelbuongusto/wp-content/uploads/2019/03/3-3.jpg",
+        "ingredients": [
+          "tagliatelle pasta",
+          "ground beef",
+          "onion",
+          "carrot",
+          "celery"
+        ],
+        "cooking_process":"Cook tagliatelle pasta in salted boiling water until al dente, heat olive oil in a pan, add onion, carrot and celery and cook until soft, add ground beef and cook until browned, add canned tomatoes and cook for 30-40 minutes, season with salt and pepper, serve ragù on top of cooked pasta."
+      },{
+        "name": "Pesto alla Genovese",
+        "id":"4",
+        "recipe_id":"Lidia",
+        "rating":"3.5",
+        "img":"https://img.apmcdn.org/0e4435c2e116941cafc74410f7419e47d1de860c/uncropped/84dad5-splendid-table-470822257.jpg",
+        "ingredients": [
+          "basil",
+          "pine nuts",
+          "garlic",
+          "Parmesan cheese",
+          "olive oil"
+        ],
+        "cooking_process":"To make the pesto, combine the basil, olive oil, pine nuts, and garlic in a food processor and pulse until the mixture is coarsely ground. Add the Parmesan cheese and pulse until the mixture is smooth. Season with salt and pepper to taste. Serve the pesto with pasta or use it as a topping for grilled meats or vegetables."
+      },
+      {
+        "name": "Focaccia",
+        "id":"5",
+        "recipe_id":"Lidia",
+        "rating":"4.5",
+        "img":"https://www.177milkstreet.com/assets/site/Recipes/_large/Tomato-Olive-Focaccia.jpg",
+        "ingredients": ["flour", "yeast", "olive oil", "salt", "water"],
+        "cooking_process":"1. In a large bowl, whisk together the warm water, yeast, and sugar. Let sit for 5-10 minutes until the mixture is foamy. \n2. Add in the flour, kosher salt, and olive oil, and mix until the dough comes together. \n3. Knead the dough on a floured surface for 5-7 minutes until it becomes smooth and elastic. \n4. Place the dough in a lightly oiled bowl, cover with plastic wrap, and let it rise in a warm place for 1 hour, or until doubled in size. \n5. Preheat the oven to 425°F. \n6. Grease a baking sheet with olive oil, and transfer the dough to the sheet. \n7. Use your fingers to press dimples into the dough, then drizzle with olive oil and sprinkle with rosemary and sea salt. \n8. Bake for 20-25 minutes, or until golden brown. \n9. Let cool for a few minutes before slicing and serving"
+      },
+      {
+        "name": "Tiramisù",
+        "id":"6",
+        "recipe_id":"Lidia",
+        "rating":"4.3",
+        "img":"https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-superJumbo.jpg",
+        "ingredients": [
+          "ladyfingers",
+          "mascarpone cheese",
+          "espresso",
+          "egg yolks",
+          "sugar"
+        ],
+        "cooking_process":"To make Tiramisù, start by brewing a strong cup of coffee and allowing it to cool. In a mixing bowl, beat 2 eggs and 1/4 cup of granulated sugar until the mixture becomes thick and pale yellow. Add 8 ounces of mascarpone cheese to the egg mixture and beat until smooth. Dip 24 ladyfingers, one at a time, into the cooled coffee and layer them in the bottom of a square baking dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat the layering process with the remaining ladyfingers and mascarpone mixture. Dust the top layer of the Tiramisù with 1 tablespoon of cocoa powder. Cover the baking dish and refrigerate for at least 2 hours or overnight to allow the flavors to meld. Serve chilled."
+      },{
+        "name": "Linguine with Clams",
+        "id":"7",
+        "recipe_id":"Giada",
+        "rating":"4.2",
+        "img":"https://whatsgabycooking.com/wp-content/uploads/WGC-Linguine-with-Clams-2-copy-2.jpg",
+        "ingredients": [
+          "linguine pasta",
+          "clams",
+          "white wine",
+          "garlic",
+          "olive oil"
+        ],
+        "cooking_process":"Cook the pasta in a large pot of salted boiling water until al dente, according to package instructions. Drain and set aside. In a large skillet, heat the olive oil over medium heat. Add the garlic and red pepper flakes and sauté for 1 minute. Add the clams and white wine, cover the skillet and cook until the clams have opened, about 5-7 minutes. Discard any clams that do not open. Add the cooked linguine to the skillet with the clams and toss to combine. Add the parsley, lemon juice, salt and pepper, and toss again. Serve immediately, garnished with additional parsley if desired"
+      },
+      {
+        "name": "Risotto ai Funghi",
+        "id":"8",
+        "recipe_id":"Giada",
+        "rating":"4.0",
+        "img":"https://ediblebronx.ediblecommunities.com/sites/default/files/styles/recipe_banner/public/images/recipe/shutterstock_173037734.jpg?itok=QkifC_7p&c=2d019bcc6d9028d5291a0f91fccbe187",
+        "ingredients": [
+          "Arborio rice",
+          "mushrooms",
+          "chicken broth",
+          "Parmesan cheese",
+          "white wine"
+        ],
+        "cooking_process":"1. In a medium saucepan, bring the chicken broth to a simmer. Add the dried porcini mushrooms and let them soak in the broth for 10 minutes.\n2. In a large, heavy-bottomed saucepan, melt the butter over medium heat. Add the finely chopped onion and sauté until translucent, about 5 minutes.\n3. Add the Arborio rice to the saucepan with the onions and stir until the rice is coated with the butter and onions.\n4. Pour in the white wine and stir constantly until the liquid is absorbed into the rice.\n5. Ladle in 1/2 cup of the mushroom-infused chicken broth and stir constantly until the liquid is absorbed into the rice. Repeat this process, adding 1/2 cup of broth at a time, and stirring constantly until the rice is al dente and creamy, about 20 minutes total.\n6. Remove the risotto from the heat and stir in the grated Parmesan cheese and chopped fresh parsley. Season with salt and pepper to taste.\n7. Serve the risotto hot, garnished with additional chopped parsley and grated Parmesan cheese, if desired."
+      },
+      {
+        "name": "Spaghetti alla Carbonara",
+        "id":"9",
+        "recipe_id":"Giada",
+        "rating":"5.0",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
+        "ingredients": [
+          "spaghetti pasta",
+          "pancetta",
+          "Pecorino Romano cheese",
+          "egg yolks",
+          "black pepper"
+        ],
+        "cooking_process":"1. Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente.\n2. While the spaghetti is cooking, heat a large skillet over medium heat. Add the pancetta and cook until crispy.\n3. In a bowl, beat the eggs with the Pecorino Romano cheese and a pinch of black pepper.\n4. When the spaghetti is done, reserve 1/2 cup of the cooking water and drain the rest. Add the spaghetti to the skillet with the pancetta and toss to coat.\n5. Remove the skillet from the heat and add the egg mixture, stirring quickly to coat the spaghetti evenly. If the mixture is too thick, add a little of the reserved cooking water to thin it out.\n6. Serve immediately, garnished with additional Pecorino Romano cheese and black pepper if desired."
+      },{
+        "name": "Lasagne al Forno",
+        "id":"10",
+        "recipe_id":"mario",
+        "rating":"2.5",
+        "img":"https://www.giangiskitchen.com/wp-content/uploads/2012/04/lasagne-al-forno2-1-of-1-scaled.jpg",
+        "ingredients": [
+          "lasagne pasta",
+          "ground beef",
+          "tomato sauce",
+          "Parmesan cheese",
+          "ricotta cheese"
+        ],
+        "cooking_process":"Preheat the oven to 375°F (190°C).\nCook the lasagne noodles in a large pot of boiling salted water until al dente, about 8 to 10 minutes. Drain and rinse under cold water to stop the cooking process. Set aside.\nIn a large skillet, cook the ground beef over medium-high heat until browned and no longer pink, about 8 to 10 minutes. Add the onion and garlic and cook until softened, about 3 to 5 minutes.\nStir in the crushed tomatoes, tomato paste, red wine, basil, oregano, salt, and black pepper. Bring to a simmer and cook for about 15 to 20 minutes, until the sauce has thickened slightly."
+      },
+      {
+        "name": "Osso Buco alla Milanese",
+        "id":"11",
+        "recipe_id":"mario",
+        "rating":"5.0",
+        "img":"https://www.tavolartegusto.it/wp/wp-content/uploads/2023/02/ossibuchi-ossobuco-alla-milanese.jpg",
+        "ingredients": [
+          "veal shanks",
+          "onion",
+          "carrot",
+          "celery",
+          "white wine"
+        ],
+        "cooking_process":"Preheat the oven to 375°F (190°C).\nCook the lasagne noodles in a large pot of boiling salted water until al dente, about 8 to 10 minutes. Drain and rinse under cold water to stop the cooking process. Set aside.\nIn a large skillet, cook the ground beef over medium-high heat until browned and no longer pink, about 8 to 10 minutes. Add the onion and garlic and cook until softened, about 3 to 5 minutes.\nStir in the crushed tomatoes, tomato paste, red wine, basil, oregano, salt, and black pepper. Bring to a simmer and cook for about 15 to 20 minutes, until the sauce has thickened slightly.\nIn a medium bowl, combine the ricotta cheese, egg, and Parmesan cheese."
+      },
+      {
+        "name": "Linguine with Clams",
+        "id":"12",
+        "recipe_id":"mario",
+        "rating":"4.5",
+        "img":"https://whatsgabycooking.com/wp-content/uploads/WGC-Linguine-with-Clams-2-copy-2.jpg",
+        "ingredients": [
+          "linguine pasta",
+          "clams",
+          "white wine",
+          "garlic",
+          "olive oil"
+        ],
+        "cooking_process":"Cook the pasta in a large pot of salted boiling water until al dente, according to package instructions. Drain and set aside. In a large skillet, heat the olive oil over medium heat. Add the garlic and red pepper flakes and sauté for 1 minute. Add the clams and white wine, cover the skillet and cook until the clams have opened, about 5-7 minutes. Discard any clams that do not open. Add the cooked linguine to the skillet with the clams and toss to combine. Add the parsley, lemon juice, salt and pepper, and toss again. Serve immediately, garnished with additional parsley if desired"
+      }, {
+        "name": "Linguine with Clams",
+        "id":"13",
+        "recipe_id":"carlo",
+        "rating":"4.0",
+        "img":"https://whatsgabycooking.com/wp-content/uploads/WGC-Linguine-with-Clams-2-copy-2.jpg",
+        "ingredients": [
+          "linguine pasta",
+          "clams",
+          "white wine",
+          "garlic",
+          "olive oil"
+        ],
+        "cooking_process":"Cook the pasta in a large pot of salted boiling water until al dente, according to package instructions. Drain and set aside. In a large skillet, heat the olive oil over medium heat. Add the garlic and red pepper flakes and sauté for 1 minute. Add the clams and white wine, cover the skillet and cook until the clams have opened, about 5-7 minutes. Discard any clams that do not open. Add the cooked linguine to the skillet with the clams and toss to combine. Add the parsley, lemon juice, salt and pepper, and toss again. Serve immediately, garnished with additional parsley if desired"
+      },
+      {
+        "name": "Risotto alla Parmigiana",
+        "id":"14",
+        "recipe_id":"carlo",
+        "rating":"3.5",
+        "img":"https://www.thedailymeal.com/img/gallery/instant-pot-risotto-alla-parmigiana-recipe/l-intro-1675971039.jpg",
+        "ingredients": [
+          "Arborio rice",
+          "Parmesan cheese",
+          "butter",
+          "white wine",
+          "chicken broth"
+        ],
+        "cooking_process":"Melt butter in a pan, add onion and cook until softened, add rice and cook for 1-2 minutes, add white wine and cook until evaporated, gradually add hot chicken broth and stir until rice is cooked, add Parmesan cheese and serve hot"
+      },
+      {
+        "name": "Focaccia",
+        "id":"15",
+        "recipe_id":"carlo",
+        "rating":"5.0",
+        "img":"https://www.177milkstreet.com/assets/site/Recipes/_large/Tomato-Olive-Focaccia.jpg",
+        "ingredients": ["flour", "yeast", "olive oil", "salt", "water"],
+        "cooking_process":"1. In a large bowl, whisk together the warm water, yeast, and sugar. Let sit for 5-10 minutes until the mixture is foamy. \n2. Add in the flour, kosher salt, and olive oil, and mix until the dough comes together. \n3. Knead the dough on a floured surface for 5-7 minutes until it becomes smooth and elastic. \n4. Place the dough in a lightly oiled bowl, cover with plastic wrap, and let it rise in a warm place for 1 hour, or until doubled in size. \n5. Preheat the oven to 425°F. \n6. Grease a baking sheet with olive oil, and transfer the dough to the sheet. \n7. Use your fingers to press dimples into the dough, then drizzle with olive oil and sprinkle with rosemary and sea salt. \n8. Bake for 20-25 minutes, or until golden brown. \n9. Let cool for a few minutes before slicing and serving"
+      },{
+        "name": "Tortellini in Brodo",
+        "id":"16",
+        "recipe_id":"niko",
+        "rating":"3.4",
+        "img":"https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png?v=1604412901",
+        "ingredients": [
+          "tortellini pasta",
+          "beef broth",
+          "Parmesan cheese",
+          "prosciutto",
+          "onion"
+        ],
+        "cooking_process":"To make the broth, add the chicken, carrots, celery, onion, and bay leaf to a large pot with 8 cups of water. Bring to a boil and then reduce the heat to low. Let the broth simmer for about 1 1/2 hours, or until the chicken is cooked through and the broth is flavorful. Remove the chicken and vegetables from the broth and strain it through a fine-mesh sieve. Discard the solids and set the broth aside.\n\nTo make the filling for the tortellini, combine the ground pork, ground beef, mortadella, prosciutto, Parmigiano-Reggiano cheese, nutmeg, eggs, salt, and pepper in a large bowl. "
+        
+      },
+      {
+        "name": "Pesto alla Genovese",
+        "id":"17",
+        "recipe_id":"niko",
+        "rating":"5.0",
+        "img":"https://img.apmcdn.org/0e4435c2e116941cafc74410f7419e47d1de860c/uncropped/84dad5-splendid-table-470822257.jpg",
+        "ingredients": [
+          "basil",
+          "pine nuts",
+          "garlic",
+          "Parmesan cheese",
+          "olive oil"
+        ],
+        "cooking_process":"To make the pesto, combine the basil, olive oil, pine nuts, and garlic in a food processor and pulse until the mixture is coarsely ground. Add the Parmesan cheese and pulse until the mixture is smooth. Season with salt and pepper to taste. Serve the pesto with pasta or use it as a topping for grilled meats or vegetables."
+      },
+      {
+        "name": "Tiramisu",
+        "id":"18",
+        "recipe_id":"niko",
+        "rating":"4.5",
+        "img":"https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-superJumbo.jpg",
+        "ingredients": [
+          "mascarpone cheese",
+          "ladyfingers",
+          "coffee",
+          "eggs",
+          "cocoa powder"
+        ],
+        "cooking_process":"To make Tiramisù, start by brewing a strong cup of coffee and allowing it to cool. In a mixing bowl, beat 2 eggs and 1/4 cup of granulated sugar until the mixture becomes thick and pale yellow. Add 8 ounces of mascarpone cheese to the egg mixture and beat until smooth. Dip 24 ladyfingers, one at a time, into the cooled coffee and layer them in the bottom of a square baking dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat the layering process with the remaining ladyfingers and mascarpone mixture. Dust the top layer of the Tiramisù with 1 tablespoon of cocoa powder. Cover the baking dish and refrigerate for at least 2 hours or overnight to allow the flavors to meld. Serve chilled"
+      }
+]
